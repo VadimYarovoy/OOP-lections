@@ -1,0 +1,5 @@
+Sep 21, 2022 1:51:23 PM L4.TryExample catchMethod
+WARNING: catch exceptionclass java.lang.NullPointerException
+Sep 21, 2022 1:52:06 PM L4.TryExample catchMethod
+WARNING: catch exceptionclass java.lang.NullPointerException
+[2022-09-21] [WARNING] catch exceptionclass java.lang.NullPointerException 
